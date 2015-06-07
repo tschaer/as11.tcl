@@ -2,9 +2,9 @@
 A work-alike re-implementation of Motorola's 1990's-era AS11.EXE DOS assembler for the 68HC11
 
 # Files
-as11.tcl - the assembler. Written with Tcl 8.5.
-asembler.doc - the original Motorola AS11.EXE documentation
-monitor01.asm - a 6811 assembly language file used for testing
+- as11.tcl - the assembler. Written with Tcl 8.5.
+- asembler.doc - the original Motorola AS11.EXE documentation
+- monitor01.asm - a 6811 assembly language file used for testing
 
 # Usage
 $ tclsh as11.tcl filename.asm [-l s]
